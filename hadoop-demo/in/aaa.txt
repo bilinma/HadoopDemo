@@ -1,0 +1,5 @@
+T1 ： hello world hello china
+
+T2 : hello hadoop
+
+T3 ： bye world bye hadoop bye bye
